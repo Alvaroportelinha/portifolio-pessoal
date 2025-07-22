@@ -1,5 +1,6 @@
 ﻿# portifolio-pessoal
 # Álvaro Portelinha – Perfil JSON
+##🔗 Link direto https://alvaroportelinha.github.io/portifolio-pessoal/
 
 Este repositório contém o arquivo `profile.json` com os meus dados profissionais, utilizado para alimentar automaticamente meu portfólio pessoal feito em JavaScript.
 
